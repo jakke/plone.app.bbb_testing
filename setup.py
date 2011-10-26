@@ -24,6 +24,7 @@ setup(name='plone.app.bbb_testing',
       zip_safe=False,
       install_requires=[
           'plone.app.testing',
+          'plone.bbb_testing',
       ],
       entry_points="""
       """,
